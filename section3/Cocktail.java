@@ -100,7 +100,7 @@ public class Cocktail {
     // NOTE: ここではまだランダム
     System.out.println(numbers);
 
-    // バブルソート
+    // カクテルソート
     List<Integer> sortedNumbers = cocktailSort(numbers);
     System.out.println(sortedNumbers);
   }
